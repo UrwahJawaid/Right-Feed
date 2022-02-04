@@ -1,0 +1,14 @@
+.CardListDisplay{
+    max-width: 84vw;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.erase{
+    font-size: 40px;
+    margin-top: 30px;
+    font-weight: 800;
+    color: rgb(28, 153, 136);
+}

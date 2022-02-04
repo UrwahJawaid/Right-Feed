@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{    
+    background-color: #EAF4F4;
+}
+
+
+.topLine{
+    height:8vh;
+    background-color: rgb(255, 255, 255);
+    margin-top: 20px;
+    
+}
+
+.logo{
+    height: 30vh;
+}
+
+
+.options{
+    max-width: 84vw;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 20px;
+    background-color: #517258;
+    height: 8vh;
+    text-align: center;
+    border-radius: 26vw;
+}
+
+
+
+.responsive{
+    list-style: none;
+}
+
+
+.btn{
+    height:8vh ;
+    color: rgb(255, 255, 255);
+    background-color: #517258;
+    border: none;    
+    font-weight: 200;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 7vw;
+}
+
+.icon{
+    cursor: pointer;
+    display: none;
+}
+
+.btn:hover{
+    color: rgb(208, 252, 122);
+    text-shadow: 5px  5px 5px rgb(208, 252, 122);
+}
+
+
+.options2{
+    max-width: 70vw;
+    margin: auto;
+    background-color:#517258 ;
+    border-radius: 40px;
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-around;
+    display: none;
+}
+
+
+
+
+
+
+@media all and (max-width: 600px) {
+
+.options{
+    max-width: 85vw;
+}   
+
+.btn{
+    font-size: 4vw;
+}
+
+
+/* .Responsive{
+    display: none;
+} */
+
+
+/* .options2{
+    max-width: 84vw;
+    display: flex;
+    justify-content: space-around;
+} */
+
+
+
+
+}
+

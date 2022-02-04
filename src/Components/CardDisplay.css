@@ -1,0 +1,8 @@
+.cardDisplay{
+    max-width: 84vw;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 40px;
+}
