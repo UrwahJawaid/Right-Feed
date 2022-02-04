@@ -10,4 +10,4 @@ To solve this injustice of the online audience being wrongfully misled to believ
 we will address general public misconceptions
 by building an interactive online quizzing platform that lets a user learn the true scenario by getting involved in a process of choosing between the truth and the commonly believed lie.
 
-*Public pagre:* https://www.peacefirst.org/project/right-feed
+*Public page:* https://www.peacefirst.org/project/right-feed
