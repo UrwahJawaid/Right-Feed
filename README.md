@@ -1,17 +1,11 @@
-installed:
 
-npm install react-bootstrap bootstrap@5.1.3
-npm install @mui/material
-npm i @emotion/react
-npm i @emotion/styled
-npm install @emotion/core@10.1.1
+What is the injustice we are solving?
 
-npm install @material-ui/icons
+I want to deal with the injustice of how hate groups change the perception of social media users for the worse about a certain community/issue/person.
 
-npm install react-icons --save
 
-npm i --save @fortawesome/fontawesome-svg-core
-npm install --save @fortawesome/free-solid-svg-icons
-npm install --save @fortawesome/react-fontawesome
-npm install --save @fortawesome/free-regular-svg-icons
-npm install --save @fortawesome/free-brands-svg-icons
+Our Compassionate Solution:
+
+To solve this injustice of the online audience being wrongfully misled to believe hateful lies about some community/person
+we will address general public misconceptions
+by building an interactive online quizzing platform that lets a user learn the true scenario by getting involved in a process of choosing between the truth and the commonly believed lie.
