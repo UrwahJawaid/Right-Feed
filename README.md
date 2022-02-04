@@ -1,7 +1,7 @@
 
 **What is the injustice we are solving?**
 
-I want to deal with the injustice of how hate groups change the perception of social media users for the worse about a certain community/issue/person.
+We want to deal with the injustice of how hate groups change the perception of social media users for the worse about a certain community/issue/person.
 
 
 **Our Compassionate Solution:**
